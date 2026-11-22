@@ -1,0 +1,10 @@
+{
+  "count": 240,
+  "pattern": "frames/frame_%04d.webp",
+  "aspectRatio": 1.7777777777777777,
+  "width": 2560,
+  "height": 1440,
+  "resolution": "2560x1440 4K Cinematic Master",
+  "deblocked": true,
+  "watermarkRemoved": true
+}
